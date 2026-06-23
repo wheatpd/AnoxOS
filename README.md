@@ -20,7 +20,7 @@ AnoxOS uses a "burn-after-reading" approach for administrative access:
 * **Live Logs:** View real-time integrity verification logs via `journalctl`.
 
 ## 🛠 Deployment
-1. Clone the repo: `git clone https://github.com/YOUR_REPO.git`
+1. Clone the repo: `git clone https://github.com/anoxlol.git`
 2. Run `./install.sh` to configure Debian 13 mirrors and security tools.
 3. Your system is now fortified.
 
